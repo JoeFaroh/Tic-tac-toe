@@ -13,7 +13,7 @@ Up-to-date Python. Any Python imports can be installed via ```pip install -r req
 
 Merely download the Python file and run it.
 
-<div style="display": flex; align-items: center;">
+<div style="display: flex; align-items: center;">
   <img src="https://github.com/JoeFaroh/Tic-tac-toe/ExampleSimulation.gif"
        height="400" width="400" alt="Example Simulation">
 </div>
